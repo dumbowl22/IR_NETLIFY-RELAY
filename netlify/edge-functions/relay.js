@@ -1,4 +1,4 @@
-const TARGET_BASE = "http://netlify.parsashonam.sbs:444".replace(/\/$/, "");
+const TARGET_BASE = "https://api.fansly.ir".replace(/\/$/, "");
 const GITHUB_PAGE = "https://ir-netlify.github.io/NETLIFY/";
 
 const STRIP_HEADERS = new Set([
